@@ -1,4 +1,7 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? 
+🐾 Emocional & Humano
+
+Pretinha, Ainda Respirando
 
 ![Pretinha](https://github.com/Prihzinha/lab-natty-or-not/blob/main/exemplos/preta.jpg)
 
