@@ -1,4 +1,4 @@
-# Desafio #LabDIONattyOrNot - E- Book 🌌
+# Desafio #LabDIONattyOrNot - E- Book 📚
 
 ## 📒 Descrição
 Este e-book de 5 páginas conta uma historia sobre um relato real e emocional de um diagnóstico precipitado que quase levou à perda da Pretinha, hoje curada e feliz, e sobre o valor de investigar antes de rotular.
