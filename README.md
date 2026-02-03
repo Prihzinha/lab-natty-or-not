@@ -1,5 +1,7 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
+![Pretinha](https://github.com/Prihzinha/lab-natty-or-not/blob/main/exemplos/preta.jpg)
+
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
@@ -14,7 +16,7 @@ Este e-book de 5 páginas conta uma historia sobre um relato real e emocional de
 ### Quando o Diagnóstico Chega Antes da Investigação
 #A história da Pretinha e o que quase nos fez desistir
 
-![Pretinha](https://app.leonardo.ai/generation/image/realistic-emotional-scene-black-mixed-breed-dog-392b111e-be15-46ff-9586-c3f67a90442a)
+![Capa do e-Book](https://github.com/Prihzinha/lab-natty-or-not/blob/main/exemplos/capa%20do%20ebook.jpg)
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização, organização de ideias e topicos;
