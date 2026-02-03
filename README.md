@@ -30,6 +30,6 @@ Este e-book de 5 páginas conta uma historia sobre um relato real e emocional de
 Utilizei o "ChatGPT" para me ajudar a organizar a escrita, mas o desafio foi tirar o ‘jeito de IA’ do texto, ajustando emoção, ritmo e imperfeições para que a história continuasse humana e real.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente, emonicional e que aparenta ser humanizado, descrevendo uma historia rica de sentimentos demonstrando como as IAs Genativas podem se adaptar com promts corretos, e sendo uma ferramenta poderosa para criação de novas ideias.
+O e-book apresenta um conteúdo envolvente, emonicional e que aparenta ser humanizado, descrevendo uma historia rica de sentimentos demonstrando como as IAs Genativas podem se adaptar com prompts corretos, e sendo uma ferramenta poderosa para criação de novas ideias.
 
 - [LINK PARA O E-BOOK AQUI](https://docs.google.com/document/d/1BHkAjUGOCMfJ1xtmMm6HWpf3VQqkMmiQ-TINqJbplHs/edit?usp=sharing)
