@@ -14,7 +14,7 @@ Este e-book de 5 páginas conta uma historia sobre um relato real e emocional de
 ### Quando o Diagnóstico Chega Antes da Investigação
 #A história da Pretinha e o que quase nos fez desistir
 
-(https://app.leonardo.ai/generation/image/realistic-emotional-scene-black-mixed-breed-dog-392b111e-be15-46ff-9586-c3f67a90442a)
+![Pretinha](https://app.leonardo.ai/generation/image/realistic-emotional-scene-black-mixed-breed-dog-392b111e-be15-46ff-9586-c3f67a90442a)
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização, organização de ideias e topicos;
