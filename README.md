@@ -4,37 +4,27 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Priscila aqui e estou participando do desafio #LabDIONattyOrNot inspirado na hype _"Natty or Not"_ do fisiculturismo, para o Curso Nexa - Fundamentos de IA Generativa com Bedrock, explorando o potencial dessas tendências tecnológicas incríveis!
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+###E-book 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 5 páginas conta uma historia sobre um relato real e emocional de um diagnóstico precipitado que quase levou à perda da Pretinha, hoje curada e feliz, e sobre o valor de investigar antes de rotular.
+
+### Quando o Diagnóstico Chega Antes da Investigação
+#A história da Pretinha e o que quase nos fez desistir
+
+(https://app.leonardo.ai/generation/image/realistic-emotional-scene-black-mixed-breed-dog-392b111e-be15-46ff-9586-c3f67a90442a)
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização, organização de ideias e topicos;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual da protagonista;
+- Ferramenta **Google Docs** para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para me ajudar a organizar a escrita, mas o desafio foi tirar o ‘jeito de IA’ do texto, ajustando emoção, ritmo e imperfeições para que a história continuasse humana e real.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
+O e-book apresenta um conteúdo envolvente, emonicional e que aparenta ser humanizado, descrevendo uma historia rica de sentimentos demonstrando como as IAs Genativas podem se adaptar com promts corretos, e sendo uma ferramenta poderosa para criação de novas ideias.
 
 - [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
