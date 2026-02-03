@@ -32,4 +32,4 @@ Utilizei o "ChatGPT" para me ajudar a organizar a escrita, mas o desafio foi tir
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente, emonicional e que aparenta ser humanizado, descrevendo uma historia rica de sentimentos demonstrando como as IAs Genativas podem se adaptar com promts corretos, e sendo uma ferramenta poderosa para criação de novas ideias.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
+- [LINK PARA O E-BOOK AQUI](https://docs.google.com/document/d/1BHkAjUGOCMfJ1xtmMm6HWpf3VQqkMmiQ-TINqJbplHs/edit?usp=sharing)
